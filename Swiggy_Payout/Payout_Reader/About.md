@@ -198,6 +198,6 @@ Excel temporary files are automatically skipped:
 
 ## License
 
-MIT License
+SHAHID License
 
 Feel free to modify and use for internal reporting and payout reconciliation.
